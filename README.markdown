@@ -45,4 +45,8 @@ Since the app is still under development, it is currently not available on App S
 
 ![Main Screen](http://i.imgur.com/DBhp2uR.png)
 
-![Detail Screen](http://i.imgur.com/xmOeph9.png)
+![Detail Screen1](http://i.imgur.com/xmOeph9.png)
+
+![Detail Screen2](http://i.imgur.com/w0roIKJ.png)
+
+![Youtube Screen](http://i.imgur.com/WRRl1RX.png)
