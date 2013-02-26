@@ -37,6 +37,9 @@ The App Engine Java SDK also provides a low-level Datastore API with simple oper
   - Paul Hegarty's lectures on iPhone Application development (http://www.stanford.edu/class/cs193p/cgi-bin/drupal/downloads-2011-fall)
   - Google App Engine (Java) https://developers.google.com/appengine/docs/java/
 
+### Acknowledgement -
+Jin Yao for designing the splashscreen and app thumbnail.
+
 ### INSTALLING THE APP -
 Since the app is still under development, it is currently not available on App Store. However there are a few tools available on the web like Jailcoder which allow you to install the app on your jail broken device. Just download the code to Xcode and then create a patch for Xcode and the app for your iPhone. 
 
@@ -50,6 +53,3 @@ Since the app is still under development, it is currently not available on App S
 ![Detail Screen2](http://i.imgur.com/w0roIKJ.png)
 
 ![Youtube Screen](http://i.imgur.com/WRRl1RX.png)
-
-### Acknowledgement -
-Jin Yao for designing the splashscreen and app thumbnail.
