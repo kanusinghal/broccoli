@@ -50,3 +50,6 @@ Since the app is still under development, it is currently not available on App S
 ![Detail Screen2](http://i.imgur.com/w0roIKJ.png)
 
 ![Youtube Screen](http://i.imgur.com/WRRl1RX.png)
+
+### Acknowledgement -
+Jin Yao for designing the splashscreen and app thumbnail.
